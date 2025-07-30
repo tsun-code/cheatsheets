@@ -1,3 +1,5 @@
 # Cheatsheets
 
-### [GCloud Cheatsheet](GCloud%20Cheatsheet.md)
+[Google Cloud Platform](GCP.md)
+
+[Git](Git.md)
