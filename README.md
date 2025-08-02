@@ -6,4 +6,4 @@
 
 
 
-[Cheatsheets from Cheatography](https://cheatography.com/){:target="_blank"}
+[Cheatsheets from Cheatography](https://cheatography.com/)
